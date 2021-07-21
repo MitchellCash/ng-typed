@@ -8,6 +8,7 @@ export interface NgTypedOptions {
   text: string;
   cursor: string;
 }
+
 export class Typed {
     element: any;
     options: NgTypedOptions;
